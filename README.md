@@ -81,33 +81,11 @@ We plotted total sales per month to see seasonal peaks.
 
 ---
 
-## What should the business do? (recommendations)
-
-| Customer group | What to do |
-|----------------|-------------|
-| Champions | Give them special early access or exclusive discounts |
-| At Risk | Send a “We miss you” email with a small discount |
-| All new customers | Send a welcome email and a discount on their second order |
-| Product | Bundle items that are often bought together |
-| Marketing | Focus on top countries: UK, Netherlands, Ireland |
-| Season | Start holiday campaigns early (October) to catch the November spike |
-
----
-
 ## Tools we used
 
 - **Python** (Pandas, Matplotlib, Seaborn) – for cleaning data, making charts, and analysis  
 - **Power BI** – for the interactive dashboard  
 - **Jupyter Notebook** – to write and run the code step by step  
-
----
-
-## How to run this code yourself
-
-1. Download or clone this repository  
-2. Get the dataset from the link above (or use the file in the repo)  
-3. Open the Jupyter notebook `online_retail_analysis.ipynb`  
-4. Run each cell – you’ll see the same charts and results
 
 ---
 
@@ -117,7 +95,3 @@ We plotted total sales per month to see seasonal peaks.
 - Sakshi Sharma
 - Yashvi Soni  
 - Rishi Kanadia  
-
-## License
-
-This project is for learning and educational use only.
