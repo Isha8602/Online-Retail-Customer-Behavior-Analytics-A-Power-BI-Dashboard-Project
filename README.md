@@ -86,12 +86,4 @@ We plotted total sales per month to see seasonal peaks.
 - **Python** (Pandas, Matplotlib, Seaborn) – for cleaning data, making charts, and analysis  
 - **Power BI** – for the interactive dashboard  
 - **Jupyter Notebook** – to write and run the code step by step  
-
----
-
-## Project team
-
-- Isha Patel  
-- Sakshi Sharma
-- Yashvi Soni  
-- Rishi Kanadia  
+ 
